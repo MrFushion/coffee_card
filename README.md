@@ -1,5 +1,10 @@
-# App Preview
+# Coffee Card
 
+This is a very simple coffee maker app.
 
-![Screenshot of the application](https://github.com/yourusername/your-repo-name/blob/main/images/screenshot.png)
-![Screenshot of the application](https://github.com/yourusername/your-repo-name/blob/main/images/screenshot.png)
+## Screenshots
+
+Here are the screenshots:
+
+![First image](https://github.com/MrFushion/coffee_card/blob/main/assets/1.png?raw=true)
+![Second image](https://github.com/MrFushion/coffee_card/blob/main/assets/w.png?raw=true)
